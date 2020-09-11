@@ -15,15 +15,15 @@ role: AI/ML Developer
 # Organizations/Affiliations
 organizations:
 - name: IBM Cloud
-  url: ""
+  url: "http://ibm.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Research
 
 education:
   courses:
