@@ -41,7 +41,7 @@ social:
   link: 'mailto:email@subho.in'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=qi8GdxIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/subho406
