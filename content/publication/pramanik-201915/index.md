@@ -12,7 +12,7 @@ tags:
 - '"Differentiable Neural Computer"'
 - '"Deep learning"'
 categories: []
-date: '2020-09-11'
+date: '2019-05-01'
 lastmod: 2020-09-11T21:02:12+05:30
 featured: true
 draft: false
