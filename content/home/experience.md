@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Founding Partner"
+  company = "Cognibit Solutions LLP"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Remote & Finland"
+  date_start = "2017-12-01"
+  date_end = "2019-01-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Responsibilities include:  
+* January 2018 - December 2018 (Remote contract work with Kone Corporation, Finland): Achieved record accu-
+racy in predicting elevator door failures and scheduling service needs from elevator sensor logs.
+* January 2019 (On-site collaboration with Kone R&D team and IoT team at Finland): Deployed the developed
+predictive maintenance solution on IBM Kubernetes platform.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Visiting Researcher"
+  company = "Kone Corporation"
+  company_url = "http://kone.com/"
+  location = "Hyvinkää, Finland"
+  date_start = "2017-05-01"
+  date_end = "2017-06-32"
+  description = """
+  Selected amongst thousands of competitors in [Kone-IBM hackathon](https://www.kone.com/en/news-and-insights/stories/kone-india-hackathon.aspx) for a paid two month sponsorship to Kone, Finland as a visiting researcher. 
+  * Performed predictive modeling of customer callouts with elevator log data using LSTM which acheived record accuracy.
+  * Performed statistical modeling & diagnostics of Kone’s german elevator data extracted from the Remote Maintenance Program which yielded commercially valuable insights."""
 
 +++
