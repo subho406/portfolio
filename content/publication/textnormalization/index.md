@@ -49,6 +49,7 @@ abstract: We perform text normalization, i.e. the transformation of words from t
   with meta-learning capabilities can open many doors to a superior text normalization
   system.
 publication: '*Speech Communication*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/S0167639318302395
+url_pdf: https://arxiv.org/pdf/1806.00044.pdf
 doi: https://doi.org/10.1016/j.specom.2019.02.003
+url_code: https://github.com/cognibit/Text-Normalization-Demo
 ---
