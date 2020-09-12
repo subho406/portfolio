@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   date_end = "2019-01-01"
   description = """
   Responsibilities include:  
-  * January 2018 - December 2018 (Remote contract work with Kone Corporation, Finland): Achieved record accuracy in predicting elevator door failures and scheduling service needs from elevator sensor logs.
-  * January 2019 (On-site collaboration with Kone R&D team and IoT team at Finland): Deployed the developed predictive maintenance solution on IBM Kubernetes platform.
+  * **January 2018 - December 2018** *(Remote contract work with Kone Corporation, Finland)*: Achieved record accuracy in predicting elevator door failures and scheduling service needs from elevator sensor logs.
+  * **January 2019** *(On-site collaboration with Kone R&D team and IoT team at Finland)*: Deployed the developed predictive maintenance solution on IBM Kubernetes platform.
   """
 
 [[experience]]
