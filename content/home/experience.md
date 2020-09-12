@@ -64,7 +64,7 @@ Intern at the IBM Watson [TRIRIGA Building Insights](https://www.ibm.com/in-en/p
   date_start = "2017-05-01"
   date_end = "2017-06-30"
   description = """
-  Selected amongst hundreds of competitors in [Kone IBM hackathon](http://kone.com/en/news-and-insights/stories/kone-india-hackathon.aspx) for a paid two month sponsorship to Kone in Finland as a visiting researcher. 
+  Selected amongst hundreds of competitors in [Kone IBM hackathon](http://kone.com/en/news-and-insights/stories/kone-india-hackathon.aspx) for a two month sponsorship to Kone in Finland as a visiting researcher. 
   * Performed predictive modeling of customer callouts with elevator log data using LSTM which acheived record accuracy.
   * Performed statistical modeling & diagnostics of Kone’s german elevator data extracted from the Remote Maintenance Program which yielded commercially valuable insights."""
 
