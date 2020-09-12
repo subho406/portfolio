@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "AI/ML Developer, IBM Cloud and Cognitive Software"
-  company = "IBM"
+  title = "AI/ML Developer"
+  company = "IBM, Cloud and Research"
   company_url = "http://ibm.com/"
   location = "Bangalore, India"
   date_start = "2019-09-01"
@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Intern, Watson IoT, TRIRIGA Building Insights"
-  company = "IBM"
+  title = "Intern"
+  company = "IBM, Watson IoT"
   company_url = "http://www.ibm.com"
   location = "Bangalore, India"
   date_start = "2019-01-01"
