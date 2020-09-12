@@ -26,10 +26,8 @@ date_format = "Jan 2006"
   date_end = "2019-01-01"
   description = """
   Responsibilities include:  
-* January 2018 - December 2018 (Remote contract work with Kone Corporation, Finland): Achieved record accu-
-racy in predicting elevator door failures and scheduling service needs from elevator sensor logs.
-* January 2019 (On-site collaboration with Kone R&D team and IoT team at Finland): Deployed the developed
-predictive maintenance solution on IBM Kubernetes platform.
+  * January 2018 - December 2018 (Remote contract work with Kone Corporation, Finland): Achieved record accuracy in predicting elevator door failures and scheduling service needs from elevator sensor logs.
+  * January 2019 (On-site collaboration with Kone R&D team and IoT team at Finland): Deployed the developed predictive maintenance solution on IBM Kubernetes platform.
   """
 
 [[experience]]
@@ -38,7 +36,7 @@ predictive maintenance solution on IBM Kubernetes platform.
   company_url = "http://kone.com/"
   location = "Hyvinkää, Finland"
   date_start = "2017-05-01"
-  date_end = "2017-06-32"
+  date_end = "2017-06-30"
   description = """
   Selected amongst thousands of competitors in  for a paid two month sponsorship to Kone, Finland as a visiting researcher. 
   * Performed predictive modeling of customer callouts with elevator log data using LSTM which acheived record accuracy.
