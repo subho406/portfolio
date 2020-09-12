@@ -32,7 +32,6 @@ Primarily assigned as an AI/ML Developer for [IBM App Connect](https://www.ibm.c
 
 
 Actively collaborating with IBM Research:
-
 **Mentors:** [Sameep Mehta](https://scholar.google.co.in/citations?user=NXA956gAAAAJ&hl=en), [Shashank Mujumder](https://scholar.google.co.in/citations?user=_HS1vTsAAAAJ&hl=en), Hima Patel
 * Worked towards a AAAI,21 submission to learn generic document represenation by leveraging multi-page, multi-modal text & visual information in real-world PDF documents.
   """
