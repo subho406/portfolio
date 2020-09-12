@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """
 Primarily assigned as an AI/ML Developer for [IBM App Connect](https://www.ibm.com/cloud/app-connect):
 * Responsible for *Research - Development - Productionization* of [Mapping Assist](https://youtu.be/a3ULbH0MyQk) feature for IBM Appconnect, Cloud Pak for Integration release.
-* Introduced a novel unsupervised technique for database schema matching, and deployed the same using ONNX+Docker pipeline.
+* Introduced a novel unsupervised technique for database schema matching, and deployed the same using ONNX+FastAPI+Docker pipeline.
 
 
 Actively collaborating with IBM Research:
