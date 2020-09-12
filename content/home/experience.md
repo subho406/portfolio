@@ -71,4 +71,5 @@ Intern at the IBM Watson [TRIRIGA Building Insights](https://www.ibm.com/in-en/p
   * Performed predictive modeling of customer callouts with elevator log data using LSTM which acheived record accuracy.
   * Performed statistical modeling & diagnostics of Kone’s german elevator data extracted from the Remote Maintenance Program which yielded commercially valuable insights."""
   *Mentors:* [Dr. Olli Mali](https://scholar.google.fi/citations?user=iO39DukAAAAJ&hl=en)
+  """
 +++
