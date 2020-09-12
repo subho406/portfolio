@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Cognibit Solutions LLP"
   company_url = ""
   location = "Remote & Finland"
-  date_start = "2017-12-01"
+  date_start = "2018-01-01"
   date_end = "2019-01-01"
   description = """
   Responsibilities include:  
@@ -40,7 +40,7 @@ predictive maintenance solution on IBM Kubernetes platform.
   date_start = "2017-05-01"
   date_end = "2017-06-32"
   description = """
-  Selected amongst thousands of competitors in [Kone-IBM hackathon](https://www.kone.com/en/news-and-insights/stories/kone-india-hackathon.aspx) for a paid two month sponsorship to Kone, Finland as a visiting researcher. 
+  Selected amongst thousands of competitors in  for a paid two month sponsorship to Kone, Finland as a visiting researcher. 
   * Performed predictive modeling of customer callouts with elevator log data using LSTM which acheived record accuracy.
   * Performed statistical modeling & diagnostics of Kone’s german elevator data extracted from the Remote Maintenance Program which yielded commercially valuable insights."""
 
