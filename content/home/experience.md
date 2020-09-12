@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   description = """
 Intern at the IBM Watson [TRIRIGA Building Insights](https://www.ibm.com/in-en/products/tririga/building-insights) team. 
 * Researched on methods to formulate and predict HVAC efficiency and the factors that cause HVAC degradation. Proposed a decision tree based approach for HVAC failure detection and root-cause analysis. 
-* Researching on methods to accurately predict floor occupancy using low cost motion detectors.
+* Actively colloborated with [Priyanka Agrawal](https://www.linkedin.com/in/priyanka88) from IBM Research towards a research publication: [OmniNet: A unified architecture for multi-modal multi-task learning](https://arxiv.org/abs/1907.07804)
   """
 
 [[experience]]
