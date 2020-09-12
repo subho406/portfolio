@@ -41,7 +41,7 @@ Primarily assigned as an AI/ML Developer for [IBM App Connect](https://www.ibm.c
   date_end = "2019-07-30"
   description = """
 Intern at the IBM Watson [TRIRIGA Building Insights](https://www.ibm.com/in-en/products/tririga/building-insights) team. 
-* Researched on methods to formulate and predict HVAC efficiency and the factors that cause HVAC degradation. Proposed a decision tree based approach for HVAC failure detection and root-cause analysis. *Mentors:* Alex J Joseph, Sattwati Kundu
+* Researched on methods to formulate and predict HVAC efficiency and the factors that cause HVAC degradation. Proposed a decision tree based approach for HVAC failure detection and root-cause analysis. (***Mentors:*** Alex J Joseph, Sattwati Kundu)
 * Actively collaborated with Priyanka Agrawal from IBM Research towards a research publication: [OmniNet: A unified architecture for multi-modal multi-task learning](https://arxiv.org/abs/1907.07804)
   """
 
@@ -70,6 +70,6 @@ Intern at the IBM Watson [TRIRIGA Building Insights](https://www.ibm.com/in-en/p
   Selected amongst hundreds of competitors in [Kone IBM hackathon](http://kone.com/en/news-and-insights/stories/kone-india-hackathon.aspx) for a two month sponsorship to Kone in Finland as a visiting researcher. 
   * Performed predictive modeling of customer callouts with elevator log data using LSTM which acheived record accuracy.
   * Performed statistical modeling & diagnostics of Kone’s german elevator data extracted from the Remote Maintenance Program which yielded commercially valuable insights.
-  *Mentors:* [Dr. Olli Mali](https://scholar.google.fi/citations?user=iO39DukAAAAJ&hl=en)
+  (***Mentors:*** [Dr. Olli Mali](https://scholar.google.fi/citations?user=iO39DukAAAAJ&hl=en) )
   """
 +++
