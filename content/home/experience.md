@@ -20,16 +20,21 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "AI/ML Developer"
-  company = "IBM, Cloud and Research"
+  company = "IBM, Cloud"
   company_url = "http://ibm.com/"
   location = "Bangalore, India"
   date_start = "2019-09-01"
   date_end = ""
   description = """
 Primarily assigned as an AI/ML Developer for [IBM App Connect](https://www.ibm.com/cloud/app-connect):
-* Researched on methods to formulate and predict HVAC efficiency and the factors that cause HVAC degradation.
-* Researching on methods to accurately predict floor occupancy using low cost motion detectors.
+* Responsible for *Research - Development - Productionization* of [Mapping Assist](https://youtu.be/a3ULbH0MyQk) feature for IBM Appconnect, Cloud Pak for Integration release.
+* Introduced a novel unsupervised technique for database schema matching, and deployed the same using ONNX+Docker pipeline.
 
+
+Actively collaborating with IBM Research:
+
+**Mentors:** [Sameep Mehta](https://scholar.google.co.in/citations?user=NXA956gAAAAJ&hl=en), [Shashank Mujumder](https://scholar.google.co.in/citations?user=_HS1vTsAAAAJ&hl=en), Hima Patel
+* Worked towards a AAAI,21 submission to learn generic document represenation by leveraging multi-page, multi-modal text & visual information in real-world PDF documents.
   """
 
 [[experience]]
@@ -70,7 +75,7 @@ Intern at the IBM Watson [TRIRIGA Building Insights](https://www.ibm.com/in-en/p
   Selected amongst hundreds of competitors in [Kone IBM hackathon](http://kone.com/en/news-and-insights/stories/kone-india-hackathon.aspx) for a two month sponsorship to Kone in Finland as a visiting researcher. 
   * Performed predictive modeling of customer callouts with elevator log data using LSTM which acheived record accuracy.
   * Performed statistical modeling & diagnostics of Kone’s german elevator data extracted from the Remote Maintenance Program which yielded commercially valuable insights.
-  
+
 **Mentors:** [Dr. Olli Mali](https://scholar.google.fi/citations?user=iO39DukAAAAJ&hl=en), [Jani Hautakorpi](https://dblp.org/pid/39/2553.html) 
   """
 +++
