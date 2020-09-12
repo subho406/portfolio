@@ -17,6 +17,32 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "AI/ML Developer, IBM Cloud and Cognitive Software"
+  company = "IBM"
+  company_url = "http://ibm.com/"
+  location = "Bangalore, India"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """
+* Researched on methods to formulate and predict HVAC efficiency and the factors that cause HVAC degradation.
+* Researching on methods to accurately predict floor occupancy using low cost motion detectors.
+  """
+
+[[experience]]
+  title = "Intern, Watson IoT, TRIRIGA Building Insights"
+  company = "IBM"
+  company_url = "http://www.ibm.com"
+  location = "Bangalore, India"
+  date_start = "2019-01-01"
+  date_end = "2019-07-30"
+  description = """
+Intern at the IBM Watson [TRIRIGA Building Insights](https://www.ibm.com/in-en/products/tririga/building-insights) team. 
+* Researched on methods to formulate and predict HVAC efficiency and the factors that cause HVAC degradation. Proposed a decision tree based approach for HVAC failure detection and root-cause analysis. 
+* Researching on methods to accurately predict floor occupancy using low cost motion detectors.
+  """
+
 [[experience]]
   title = "Founding Partner"
   company = "Cognibit Solutions LLP"
