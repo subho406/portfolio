@@ -69,7 +69,7 @@ user_groups:
 
 > **"** *Evolution forged the entirity of sentient life on this planet using only one tool... mistake!* **"**
 
-Hey there, I'm an aspiring researcher currently hired as an AI/ML developer at IBM Cloud. I want to explore the theoritical depths of Cognitive Science and AI, and contribute inches towards AGI. I'm also an avid coder, and have experience in deployment of several machine learning algorithms in scale ai IBM and Kone. My current research interests include but not limited to:
+Hey there, I'm an aspiring researcher currently hired as an AI/ML developer at IBM Cloud. I want to explore the theoritical depths of Cognitive Science and AI, and contribute inches towards AGI. I'm also an avid coder, and have experience in deployment of several machine learning algorithms at scale in IBM and Kone. My current research interests include but not limited to:
 
 * Multi-modal & Multi-task learning
 * Natural language processing
