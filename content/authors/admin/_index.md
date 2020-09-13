@@ -77,4 +77,4 @@ Hey there, I'm an aspiring researcher currently hired as an AI/ML developer at I
 * Memory augmented architectures
 * Deep learning
 
-
+**Reach me out on:** email@subho.in, subhojeet@in.ibm.com
