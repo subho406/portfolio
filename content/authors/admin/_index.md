@@ -67,4 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Hello world!
+> "Evolution forged the entirity of sentient life on this planet using only one tool... mistake!
+
+Hey, I'm an aspiring researcher currently hired as an AI/ML developer in IBM Cloud. 
