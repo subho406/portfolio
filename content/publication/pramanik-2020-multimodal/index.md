@@ -2,7 +2,7 @@
 title: Towards a Multi-modal, Multi-task Learning based Pre-training Framework for
   Document Representation Learning
 date: '2020-10-01'
-draft: true
+draft: false
 publishDate: '2020-10-01T07:54:03.825033Z'
 authors:
 - Subhojeet Pramanik
