@@ -32,7 +32,7 @@ Primarily assigned as an AI/ML Developer for [IBM App Connect](https://www.ibm.c
 
 
 Actively collaborating with IBM Research:
-* Worked towards a AAAI, 21 submission to learn a generic document representation by leveraging multi-page, multi-modal text & visual information in real-world PDF documents. (**Mentors:** [Dr. Sameep Mehta](https://scholar.google.co.in/citations?user=NXA956gAAAAJ&hl=en), [Shashank Mujumder](https://scholar.google.co.in/citations?user=_HS1vTsAAAAJ&hl=en), Hima Patel)
+* Worked towards a AAAI, 21 submission to learn a generic document representation by leveraging multi-page, multi-modal text & visual information in real-world PDF documents. (**Mentors:** [Dr. Sameep Mehta](https://scholar.google.co.in/citations?user=NXA956gAAAAJ&hl=en), [Shashank Mujumdar](https://scholar.google.co.in/citations?user=_HS1vTsAAAAJ&hl=en), Hima Patel)
   """
 
 [[experience]]
