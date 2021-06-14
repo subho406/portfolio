@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "email@subho.in"
+email: "email [at] subho [dot] in"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -77,4 +77,4 @@ Hey there, I'm an aspiring researcher currently hired as an AI/ML developer at I
 * Memory augmented architectures
 * Deep learning
 
-**Contact:** email@subho.in, subhojeet@in.ibm.com
+**Contact:** email [at] subho [dot] in, subhojeet [at] in [dot] ibm [dot] com
