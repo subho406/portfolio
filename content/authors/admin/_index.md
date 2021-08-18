@@ -27,9 +27,12 @@ interests:
 
 education:
   courses:
+  - course: Master of Science in Computer Science (thesis based)
+    institution: University of Alberta
+    year: 2021 - 2023
   - course: B.Tech in Computer Science and Engineering
     institution: VIT University
-    year: 2019
+    year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
