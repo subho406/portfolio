@@ -73,11 +73,11 @@ user_groups:
 > **"** *The truly unique feature of our language is not its ability to transmit information about men and lions. Rather, it’s the ability to transmit information
 about things that do not exist at all. As far as we know, only Sapiens can talk about entire kinds of entities that they have never seen, touched or smelled.* **"** --- Yuval Noah Harrari
 
-Hey there, I'm an aspiring researcher currently hired as an AI/ML developer at IBM Cloud. I have also collaborated with IBM Research over a few research publications. I want to explore the theoritical depths of Cognitive Science and AI, and contribute inches towards safe AGI. I'm also an avid coder, and have experience in deployment of several machine learning algorithms at scale in IBM and Kone. My current research interests include but not limited to:
+Hey there, I'm an aspiring researcher currently persuing Msc Computer Science (thesis-based) at the University of Alberta. I am also working as a teaching assistant under Prof. Adam White for CMPUT 365 (Reinforcement Learning 1). Previously I had worked with IBM Cloud as an ML Engineer and also collaborated with IBM Research over various research projects in representation learning. I want to explore the theoritical depths of Cognitive Science and AI, and contribute inches towards safe AGI. I'm also an avid coder, and have experience in deployment of several machine learning algorithms at scale in IBM and Kone. My current research interests include but not limited to:
 
-* Multi-modal & Multi-task learning
-* Natural language processing
-* Memory augmented architectures
+* Reinforcement Learning
+* Representation Learning
+* Multi-modal & Multi-task learning (NLP + Vision)
 * Deep learning
 
-**Contact:** email [at] subho [dot] in, subhojeet [at] in [dot] ibm [dot] com
+**Contact:** email [at] subho [dot] in, spramanik [at] ualberta [dot] ca
