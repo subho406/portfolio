@@ -1,7 +1,7 @@
 ---
 title: Subhojeet Pramanik
 role: AI/ML Developer
-avatar_filename: img_6651.jpeg
+avatar_filename: avatar.jpg
 organizations:
   - name: IBM Cloud
     url: http://ibm.com
