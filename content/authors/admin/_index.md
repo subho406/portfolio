@@ -1,6 +1,6 @@
 ---
-title: Subhojeet Pramanik
-role: Msc Student
+title: Subho (Subhojeet Pramanik)
+role: MSc Student
 avatar_filename: avatar.jpg
 organizations:
   - name: RLAI, University of Alberta
