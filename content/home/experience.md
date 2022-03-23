@@ -23,10 +23,10 @@ date_format = "Jan 2006"
   location = "Edmonton, Canada"
   date_start = "2019-09-01"
   description = """
-Teaching Assistant for CMPUT174: Introduction to Computation 1. 
+* Teaching Assistant for CMPUT174: Introduction to Computation 1. 
 
 Previously: 
-1. Teaching Assistant for CMPUT365: Introduction to Reinforcement Learning (Instructor: Adam White)
+* Teaching Assistant for CMPUT365: Introduction to Reinforcement Learning (Instructor: Adam White)
   """
   
 [[experience]]
