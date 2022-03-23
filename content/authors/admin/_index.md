@@ -1,13 +1,13 @@
 ---
-title: Subho (Subhojeet Pramanik)
 role: MSc Student
-avatar_filename: avatar.jpg
+avatar_filename: https://avatars.githubusercontent.com/u/15103527?v=4
 organizations:
   - name: RLAI, University of Alberta
     url: http://rlai.ualberta.ca
 superuser: true
 authors:
   - admin
+title: Subho (Subhojeet Pramanik)
 interests:
   - Reinforcement Learning
   - Representation Learning
