@@ -17,14 +17,25 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Graduate Teaching Assistant"
+  company = "University of Alberta"
+  location = "Edmonton, Canada"
+  date_start = "2019-09-01"
+  description = """
+Teaching Assistant for CMPUT174: Introduction to Computation 1. 
 
+Previously: 
+1. Teaching Assistant for CMPUT365: Introduction to Reinforcement Learning (Instructor: Adam White)
+  """
+  
 [[experience]]
   title = "AI/ML Developer"
   company = "IBM, Cloud"
   company_url = "http://ibm.com/"
   location = "Bangalore, India"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2021-07-31"
   description = """
 Primarily assigned as an AI/ML Developer for [IBM App Connect](https://www.ibm.com/cloud/app-connect):
 * Part of the newly minted AI team responsible for *Research &#8594; Development &#8594; Productionization* of [Mapping Assist](https://youtu.be/a3ULbH0MyQk) feature for IBM Appconnect, Cloud Pak for Integration release.
