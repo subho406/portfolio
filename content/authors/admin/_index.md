@@ -44,7 +44,7 @@ user_groups:
 > **"** *The truly unique feature of our language is not its ability to transmit information about men and lions. Rather, it’s the ability to transmit information
 > about things that do not exist at all. As far as we know, only Sapiens can talk about entire kinds of entities that they have never seen, touched or smelled.* **"** --- Yuval Noah Harrari
 
-Hey there, I am a MSc student at the University of Alberta working on Reinforcement Learning and Artificial Intelligence. I am currently co-supervised by [Adam White](https://sites.ualberta.ca/~amw8/) and [Marlos Machado](http://mcmachado.info), and affliated with [RLAI Lab](http://rlai.ualberta.ca) and [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca). I am working on online agent state construction in Reinforcement Learning. 
+Hey there, I am a MSc student at the University of Alberta working on Reinforcement Learning and Artificial Intelligence. I am currently co-supervised by [Adam White](https://sites.ualberta.ca/~amw8/) and [Marlos Machado](http://mcmachado.info); and affliated with [RLAI Lab](http://rlai.ualberta.ca) and [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca). I am working on online agent state construction in Reinforcement Learning. 
 
 Previously I had worked with IBM Cloud as an ML Engineer and also collaborated with IBM Research over various research projects in representation learning. I'm also an avid coder, and have experience in deployment of several machine learning algorithms at scale in IBM and Kone. 
 
