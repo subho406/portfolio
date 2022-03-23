@@ -1,23 +1,21 @@
 ---
 title: Subhojeet Pramanik
-role: AI/ML Developer
+role: Msc Student
 avatar_filename: avatar.jpg
 organizations:
-  - name: IBM Cloud
-    url: http://ibm.com
+  - name: RLAI, University of Alberta
+    url: http://rlai.ualberta.ca
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
 interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Research
+  - Reinforcement Learning
+  - Representation Learning
+  - Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:email@subho.in
+    link: mailto:spramanik@ualberta.ca
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=qi8GdxIAAAAJ&hl=en
@@ -29,7 +27,7 @@ social:
     link: https://www.linkedin.com/in/subho406/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/subho406
+    link: https://twitter.com/subho_in
 education:
   courses:
     - course: Master of Science in Computer Science (thesis based)
