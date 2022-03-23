@@ -34,7 +34,7 @@ education:
       institution: University of Alberta
       year: 2021 - 2023
     - course: B.Tech in Computer Science and Engineering
-      institution: VIT University
+      institution: Vellore Institute of Technology
       year: 2015 - 2019
 email: email [at] subho [dot] in
 user_groups:
@@ -48,4 +48,4 @@ Hey there, I am a MSc student at the University of Alberta working on Reinforcem
 
 Previously I had worked with IBM Cloud as an ML Engineer and also collaborated with IBM Research over various research projects in representation learning. I'm also an avid coder, and have experience in deployment of several machine learning algorithms at scale in IBM and Kone. 
 
-**Contact:** email \[at] subho \[dot] in, spramanik \[at] ualberta \[dot] ca
+**Contact:** spramanik \[at] ualberta \[dot] ca, email \[at] subho \[dot] in
