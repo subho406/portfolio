@@ -48,6 +48,6 @@ Hey there, I am a MSc student at the University of Alberta working on Reinforcem
 
 My current MSc research is centered around understanding how an agent in a complex environment **perceives** a stream observations. In a real-world setting an agent's immediate observation is not very informative (non Markovian), and the true-state of the world is always mammoth compared to the agent. In my research, I'm exploring how an agent can build short and long-term memories from a stream of observations which can then be used to generate an agent's perception at a given time (an approximate Markov-state). The agent then uses its immediate perception for prediction or control. 
 
-Previously I had worked with IBM Cloud as an ML Engineer and also collaborated with IBM Research over various research projects in representation learning. I'm also an avid coder, and have experience in deployment of several machine learning algorithms at scale in IBM and Kone. 
+Previously I had worked with IBM Cloud as an ML Engineer and also collaborated with IBM Research over various research projects in representation learning and Deep Learning. I'm also an avid coder, and have experience in deployment of several machine learning algorithms at scale in IBM and Kone. 
 
 **Contact:** spramanik \[at] ualberta \[dot] ca, email \[at] subho \[dot] in
