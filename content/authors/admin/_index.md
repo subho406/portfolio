@@ -1,5 +1,5 @@
 ---
-role: MSc Student
+role: MSc Graduate
 avatar_filename: https://avatars.githubusercontent.com/u/15103527?v=4
 organizations:
   - name: RLAI, University of Alberta
