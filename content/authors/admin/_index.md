@@ -48,6 +48,6 @@ I work in reinforcement learning and artificial intelligence. I completed my MSc
 
 My research interests lie broadly in reinforcement learning, representation learning and continual learning. In my MSc thesis I proposed a recurrent alternative to the transformer's self-attention mechanism that offers context-independent inference cost and parallelization over an input suquence. The proposed self-attention mechanism was shown to outperform state-of-the-art transformers and recurrent neural networks in partially observable reinforcement learning problems, both in terms of computational efficiency and performance. 
 
-During my MSc, I also interned at Huawei Research Edmonton, applying reinforcement learning to neural network operator fusion. Previously, I had worked with IBM Cloud as an ML Engineer and with IBM Research on various research projects in representation learning and Deep Learning. I helped deploy several machine learning algorithms at scale in IBM and Kone.
+I have also worked in several industry positions in machine learning. During my MSc, I interned at Huawei Research Edmonton, applying reinforcement learning to neural network operator fusion. Previously, I had worked with IBM Cloud as an ML Engineer (around 2 years) and collaborated with IBM Research on various research projects in representation learning and deep learning. I also helped deploy several machine learning algorithms at scale in IBM and Kone.
 
 **Contact:** spramanik \[at] ualberta \[dot] ca, email \[at] subho \[dot] in
