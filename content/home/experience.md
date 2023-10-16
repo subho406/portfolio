@@ -18,16 +18,12 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Teaching Assistant"
-  company = "University of Alberta"
+  title = "Researcher Intern"
+  company = "Huawei"
   location = "Edmonton, Canada"
-  date_start = "2019-09-01"
+  date_start = "2022-11-01"
+  date_end = "2023-06-30"
   description = """
-  
-* Teaching Assistant for CMPUT174: Introduction to Computation 1. 
-
-Previously: 
-* Teaching Assistant for CMPUT365: Introduction to Reinforcement Learning (Instructor: Adam White)
   """
   
 [[experience]]
