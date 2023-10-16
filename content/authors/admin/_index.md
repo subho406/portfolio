@@ -44,7 +44,7 @@ user_groups:
 > **"** *The truly unique feature of our language is not its ability to transmit information about men and lions. Rather, it’s the ability to transmit information
 > about things that do not exist at all. As far as we know, only Sapiens can talk about entire kinds of entities that they have never seen, touched or smelled.* **"** --- Yuval Noah Harrari
 
-Hey there, I work in reinforcement learning and artificial intelligence. I completed my MSc in Computing Science at the University of Alberta and was co-supervised by [Adam White](https://sites.ualberta.ca/~amw8/) and [Marlos Machado](http://mcmachado.info); affliated with [RLAI Lab](http://rlai.ualberta.ca) and [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca). 
+I work in reinforcement learning and artificial intelligence. I completed my MSc in Computing Science at the University of Alberta and was co-supervised by [Adam White](https://sites.ualberta.ca/~amw8/) and [Marlos Machado](http://mcmachado.info); affliated with [RLAI Lab](http://rlai.ualberta.ca) and [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca). 
 
 My MSc research was centered around understanding how an agent in a complex environment **perceives** a stream of observations. In a real-world setting an agent's immediate observation is not very informative (non Markovian), and the true-state of the world is always mammoth compared to the agent. In my research, I'm exploring how an agent can build short and long-term memories from a stream of observations which can then be used to generate an agent's perception at a given time (an approximate Markov-state). The agent then uses its immediate perception for prediction or control. 
 
