@@ -7,7 +7,7 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Subho (Subhojeet Pramanik)
+title: Subho 
 interests:
   - Reinforcement Learning
   - Representation Learning
