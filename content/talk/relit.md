@@ -18,5 +18,5 @@ image = "relit.png"
 caption = "Recurrent Linear Transformer"
 
 +++
-Hello world {{< youtube -bTe48JIUds >}}
+Amii AI Seminar {{< youtube -bTe48JIUds >}}
 
