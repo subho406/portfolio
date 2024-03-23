@@ -18,5 +18,5 @@ image = "relit.png"
 caption = "Recurrent Linear Transformer"
 
 +++
-
+{{< youtube -bTe48JIUds >}}
 
