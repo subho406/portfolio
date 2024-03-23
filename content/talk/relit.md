@@ -14,7 +14,7 @@ url_video = "https://www.youtube.com/watch?v=-bTe48JIUds"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "relit.png"
 caption = "Recurrent Linear Transformer"
 
 +++
